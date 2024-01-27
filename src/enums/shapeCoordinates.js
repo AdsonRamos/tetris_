@@ -1,0 +1,7 @@
+const Z_SHAPE_COORDINATES = [[0, -1], [0, 0], [-1, 0], [-1, 1]]
+const S_SHAPE_COORDINATES = [[0, -1], [0, 0], [1, 0], [1, 1]]
+const LINE_SHAPE_COORDINATES = [[0, -1], [0, 0], [0, 1], [0, 2]]
+const T_SHAPE_COORDINATES = [[-1, 0], [0, 0], [1, 0], [0, 1]]
+const SQUARE_SHAPE_COORDINATES = [[0, 0], [1, 0], [0, 1], [1, 1]]
+const L_SHAPE_COORDINATES = [[-1, -1], [0, -1], [0, 0], [0, 1]]
+const MIRRORED_SHAPE_COORDINATES = [[1, -1], [0, -1], [0, 0], [0, 1]]

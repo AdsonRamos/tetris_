@@ -1,0 +1,7 @@
+const Z_SHAPE = new Shape({ coordinates: Z_SHAPE_COORDINATES, color: '#CC6666', name: "Z_SHAPE" })
+const S_SHAPE = new Shape({ coordinates: S_SHAPE_COORDINATES, color: "#66CC66", name: "S_SHAPE" })
+const LINE_SHAPE = new Shape({ coordinates: LINE_SHAPE_COORDINATES, color: "#6666CC", name: "LINE_SHAPE" })
+const T_SHAPE = new Shape({ coordinates: T_SHAPE_COORDINATES, color: "#CCCC66", name: "T_SHAPE" })
+const SQUARE_SHAPE = new Shape({ coordinates: SQUARE_SHAPE_COORDINATES, color: "#CC66CC", name: "SQUARE_SHAPE" })
+const L_SHAPE = new Shape({ coordinates: L_SHAPE_COORDINATES, color: "#66CCCC", name: "L_SHAPE" })
+const MIRRORED_L_SHAPE = new Shape({ coordinates: MIRRORED_SHAPE_COORDINATES, color: "#DAAA00", name: "MIRRORED_L_SHAPE" })
